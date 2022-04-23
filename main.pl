@@ -1,0 +1,9 @@
+valuable(gold).
+valuable(love).
+female(jane).
+owns(jane,gold).
+owns(mary,gold).
+owns(jane,love).
+owns(mary,love).
+father(john,mary).
+gives(john,book,mary).
